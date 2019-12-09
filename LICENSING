@@ -1,0 +1,13 @@
+promotor :- a tool for facilitating the git-ops workflows
+and managing Kybernetes manifests across multiple environments
+
+Copyright (c) 2019, Robert Hofmann, Deutsche Telekom AG
+
+The project 'promotor' has been initialized and sponsored
+by Deutsche Telekom AG which has manadated gaware to do
+the developments. As copyright owner Deutsche Telekom AG
+decided to release this work under the terms of the 
+Apache-License v2
+
+For details see the files LICENSE and NOTICE on the toplevel.
+

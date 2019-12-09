@@ -1,0 +1,21 @@
+promotor :- a tool for facilitating the git-ops workflows
+and managing Kybernetes manifests across multiple environments
+Copyright (c) 2019, Robert Hofmann, Deutsche Telekom AG
+contact: opensource@telekom.de
+
+This file is distributed under the terms of the Apache-v2 license.
+For details see the files LICENSING, LICENSE.
+
+Initiators:
+-----------
+Deutsche Telekom AG has initialized the project 'promotor'
+and mandated the company gaware to do the development job.
+As copyright owner, Deutsche Telekom AG decided to release
+the reult under the terms of the Apache-License v2
+
+Contributors:
+-------------
+Karsten Reincke (Deutsche Telekom AG) Repository Initialization
+Robert Hofmann (Deutsche Telekom AG) Project Sponsor
+Felix Obenauer (gaware) Developer
+
